@@ -67,3 +67,5 @@ export default customerSlice.reducer;
 // export function updateName(fullName) {
 //   return { type: "customer/updateName", payload: fullName };
 // }
+
+/////
